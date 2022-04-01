@@ -1,6 +1,4 @@
 # MetricAnalysis
-This is the code for my project at university
-
 run function.py
 it asks you for the number of known points, and then the dimension (how many coordinates does the point have)
 according to these data, it calculates the values of the function (y = ((matrix(v) * vect (x)), vect(x)) + (vect(c), vect(x)), the elements of the matrix V, vector C and coordinates points are set randomly
